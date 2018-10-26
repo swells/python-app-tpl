@@ -1,0 +1,7 @@
+!python
+src: ./handler.py
+entrypoint: handler
+inputs:
+  req: str
+outputs:
+  res: str
