@@ -1,6 +1,5 @@
 !python
-src: ./handler.py
-entrypoint: handler
+entrypoint: ./handler
 inputs:
   req: str
 outputs:
